@@ -1,5 +1,17 @@
 # meteor-admin-sdk-app
 
+## 1.0.48
+
+### Patch Changes
+
+- Updated dependencies [24c0162]
+- Updated dependencies [24c0162]
+- Updated dependencies [24c0162]
+- Updated dependencies [24c0162]
+- Updated dependencies [24c0162]
+  - @heyadmin-ag/meteor-admin-sdk@6.2.0
+  - @heyadmin-ag/meteor-component-library@4.14.0
+
 ## 1.0.47
 
 ### Patch Changes

@@ -1,5 +1,19 @@
 # Changelog
 
+## 4.14.0
+
+### Minor Changes
+
+- 24c0162: Add mt-entity-select component
+
+### Patch Changes
+
+- 24c0162: Add reactivity to `min`/`max` changes in `mt-number-field` to prevent invalid values.
+- 24c0162: fix: validator errors mt-field-error
+- Updated dependencies [24c0162]
+- Updated dependencies [24c0162]
+  - @heyadmin-ag/meteor-admin-sdk@6.2.0
+
 ## 4.13.0
 
 ### Minor Changes
