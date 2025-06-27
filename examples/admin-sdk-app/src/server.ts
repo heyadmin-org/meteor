@@ -62,7 +62,7 @@ async function createServer() {
         optimizeDeps: {
             include: [
                 '@heyadmin-ag/meteor-admin-sdk',
-                '@shopware-ag/meteor-component-library'
+                '@heyadmin-ag/meteor-component-library'
             ]
         },
     })

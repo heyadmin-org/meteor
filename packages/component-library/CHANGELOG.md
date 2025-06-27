@@ -305,15 +305,15 @@
 
   ```js
   // Some JavaScript file: index.js
-  import "@shopware-ag/meteor-component-library/dist/styles.css";
+  import "@heyadmin-ag/meteor-component-library/dist/styles.css";
   ```
 
   You now need to update that one import to the following two imports:
 
   ```js
   // Some JavaScript file: index.js
-  import "@shopware-ag/meteor-component-library/styles.css"; // Note: this path is different from the old one
-  import "@shopware-ag/meteor-component-library/font.css";
+  import "@heyadmin-ag/meteor-component-library/styles.css"; // Note: this path is different from the old one
+  import "@heyadmin-ag/meteor-component-library/font.css";
   ```
 
   If you want to load the font by yourself, you can do that.
