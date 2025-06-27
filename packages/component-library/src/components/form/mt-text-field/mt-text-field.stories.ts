@@ -123,5 +123,9 @@ export default {
 export type MtTextFieldStory = StoryObj<MtTextFieldMeta>;
 
 export const DefaultStory: MtTextFieldStory = {
+  args: {
+    size: "small",
+  },
+
   name: "mt-text-field",
 };

@@ -117,7 +117,7 @@ export default defineComponent({
     size: {
       type: String,
       required: false,
-      default: "default",
+      default: "small",
       validator(value: string) {
         return ["small", "default"].includes(value);
       },
