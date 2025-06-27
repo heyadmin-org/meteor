@@ -1,6 +1,6 @@
 {
   "name": "@heyadmin-ag/meteor-component-library",
-  "version": "4.13.0",
+  "version": "4.14.0",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:heyadmin-org/meteor.git"
